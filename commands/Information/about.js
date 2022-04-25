@@ -31,14 +31,14 @@ module.exports = {
       .setColor('#303236')
       .addField(
         'Creator',
-        '[Blacky](https://github.com/brblacky), [Venom#9718](https://github.com/Venom9718/) and [AkAbhijit](https://github.com/AkAbhijit)',
+        '[Ashley <3#5237](https://discord.gg/ReeQ2fSPQ2), and [CEO | Eul Joromat#5040](https://discord.gg/ReeQ2fSPQ2)',
         true,
       )
-      .addField('Organization', '[Blacky](https://github.com/brblacky)', true)
-      .addField('Repository', '[Here](https://github.com/brblacky/WaveMusic)', true)
+      .addField('Organization', '[Ashley <3#5237](https://github.com/EulJoromat)', true)
+      .addField('Repository', '[Here]((https://github.com/EulJoromat/Ashley-)', true)
       .addField(
         '\u200b',
-        `[WaveMusic](https://github.com/brblacky/WaveMusic/) is [Blacky](https://github.com/brblacky)'s Was created by blacky and Venom. He really wants to make his first open source project ever. Because he wants more for coding experience. In this project, he was challenged to make project with less bugs. Hope you enjoy using Ashley!`,
+        `[Ashley ^^](https://github.com/EulJoromat/Ashley-) is [Ashley ^^](https://github.com/EulJoromat)'s Was created by Ashley <3#5237 and CEO | Eul Joromat#5040. He really wants to make his first open source project ever. Because he wants more for coding experience. In this project, he was challenged to make project with less bugs. Hope you enjoy using Ashley ^^!`,
       );
     return message.reply({ embeds: [mainPage], components: [row] });
   },

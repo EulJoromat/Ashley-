@@ -1,30 +1,17 @@
-
-[![Version][version-shield]](version-url)
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-<center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=WaveMusic&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/brblacky/WaveMusic">
-    <img src="https://media.discordapp.net/attachments/963097935820750878/963098304483328030/20220411_160253.png" alt="Pbot-plus" width="200" height="200">
+    <img src="https://cdn.discordapp.com/avatars/900246137397723156/0e03b63d2867266f8c874316a90bdb0f.jpg" alt="Pbot-plus" width="200" height="200">
   </a>
 
-  <h3 align="center">WaveMusic</h3>
+  <h3 align="center"Ashley ^^</h3>
 
   <p align="center">
-    WaveMusic is  a powerful music Bot
+    Ashley ^^ is  a powerful music Bot
     <br />
     <br />
-    <a href="https://github.com/brblacky/WaveMusic/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/brblacky/WaveMusic/issues">Request Feature</a>
-  </p>
+    <a 
 </p>
 <!-- ABOUT THE PROJECT -->
 
@@ -74,18 +61,18 @@ To start your bot
 npm start
 ```
 ###
-WaveMusic is a discord music bot base in [Kazagumo](https://github.com/Takiyo0/Kazagumo) (Shoukaku)
+Ashley  is a discord music bot base in [Kazagumo](https://github.com/Takiyo0/Kazagumo) (Shoukaku)
 If you liked this repository, feel free to leave a star ⭐ to help promote !
 
 ## 💌 Support Server
-[![DiscordBanner](https://invidget.switchblade.xyz/ns8CTk9J3e)](https://discord.gg/ns8CTk9J3e)
-[Support Server](https://discord.gg/ns8CTk9J3e) - WaveMusic's Support Server Invite
+[![DiscordBanner](https://invidget.switchblade.xyz/ns8CTk9J3e)](https://discord.gg/ReeQ2fSPQ2)
+[Support Server](https://discord.gg/ReeQ2fSPQ2) - Ashley's Support Server Invite
 
 # Donate
 
  By Donating, You Will Help Me To Maintain This Project 
 
-- [PayPal](https://www.paypal.me/sdip521)
+- [Comming Soon](LOL)
 
 
 <!-- LICENSE -->

@@ -18,9 +18,9 @@ module.exports = {
 
   nodes: [
     {
-      url: process.env.NODE_URL || 'lavalink-coders.ml:80',
+      url: process.env.NODE_URL || 'n1.lavalink.milrato.com:10350',
       name: process.env.NODE_NAME || 'Main',
-      auth: process.env.NODE_AUTH || 'coders',
+      auth: process.env.NODE_AUTH || 'discord.gg/milrato',
       secure: parseBoolean(process.env.NODE_SECURE || 'false'),
     },
   ],
